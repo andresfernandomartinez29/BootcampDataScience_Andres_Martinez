@@ -1,0 +1,53 @@
+id,name,iataCode,oaciCode,type,deparmentId,department,cityId,city,latitude,longitude
+45,Base Aérea BG. Arturo Lema Posada,N/A,N/A,Militar,2,Antioquia,91,Rionegro,-75.42037792,6.166336066
+9,Aeropuerto Internacional José María Córdova,MDE,SKRG,Internacional,2,Antioquia,91,Rionegro,-75.423110000511,6.1645330006573
+35,Aeropuerto Los Colonizadores,RVE,SKSA,Nacional,3,Arauca,141,Saravena,-71.8605600056216,6.9566401818432
+41,Aeropuerto Gabriel Vargas Santos,TME,SKTM,Nacional,3,Arauca,142,Tame,-71.7602985282201,6.4499321697396
+16,Aeropuerto Santiago Pérez Quiroz,AUC,SKUC,Nacional,3,Arauca,143,Arauca,-70.7369359999433,7.0689110004557
+2,Aeropuerto Internacional Ernesto Cortissoz,BAQ,SKBQ,Internacional,4,Atlántico,144,Barranquilla,-74.7806769994191,10.8894609990694
+7,Aeropuerto Internacional Rafael Núñez,CTG,SKCG,Internacional,6,Bolívar,203,El Carmen de Bolívar,-75.5153339592878,10.4449415954788
+43,Aeropuerto del Café,N/A,N/A,En Construccion,8,Caldas,337,Manizales,0.0,0.0
+24,Aeropuerto La Nubia,MZL,SKMZ,Nacional,8,Caldas,337,Manizales,-75.4692103507527,5.0293625217822
+51,Base Aérea de Tres Esquinas,TQS,SKTQ,Militar,9,Caquetá,371,Solano,-75.23502646,0.746816168
+30,Aeropuerto Guillermo León Valencia,PPN,SKPP,Nacional,11,Cauca,399,Popayán,-76.6090055153847,2.4545500033108
+33,Aeropuerto El Caraño,UIB,SKUI,Nacional,13,Chocó,467,Quibdó,-76.6434017112367,5.6927153303833
+47,Base Aérea de Madrid,N/A,SKMA,Militar,15,Cundinamarca,571,Madrid,-74.27088585,4.728473768
+50,Base Aérea Germán Olano (Palanquero),PAL,SKPQ,Militar,15,Cundinamarca,586,Puerto Salgar,-74.65665411,5.465754049
+34,Aeropuerto Jorge Enrique González,SJE,SKSJ,Nacional,17,Guaviare,654,San José del Guaviare,-72.63883975,2.5728217179895
+27,Aeropuerto Benito Salas,NVA,SKNV,Nacional,18,Huila,657,Neiva,-75.2929522178244,2.9475695070153
+29,Aeropuerto Contador,PTX,SKPI,Nacional,18,Huila,681,Pitalito,-76.0903327243934,1.8573393912767
+8,Aeropuerto Internacional Alfredo Vásquez Cobo,LET,SKLT,Internacional,1,Amazonas,1,Leticia,-69.9424648377189,-4.1925091084901
+15,Aeropuerto Antonio Roldán Betancourt,APO,SKLC,Nacional,2,Antioquia,41,Carepa,-76.7157690002458,7.8118166595081
+23,Aeropuerto San Luis,IPI,SKIP,Nacional,22,Nariño,791,Ipiales,-77.6718766794525,0.8619641456924
+28,Aeropuerto Antonio Nariño,PSO,SKPS,Nacional,22,Nariño,769,Pasto,-77.2909833329443,1.3965964448241
+36,Aeropuerto La Florida,TCO,SKCO,Nacional,22,Nariño,828,San Andrés de Tumaco,-78.7515257366375,1.8125020644884
+6,Aeropuerto Internacional Camilo Daza,CUC,SKCC,Internacional,23,Norte de Santander,870,Cúcuta,-72.5140555000538,7.9313999994753
+10,Aeropuerto Internacional Matecaña,PEI,SKPE,Internacional,26,Risaralda,897,Pereira,-75.7393969995227,4.81269699992
+31,Aeropuerto El Embrujo,PVA,SKPV,Nacional,27,San Andrés y Providencia,911,Providencia,-81.3562680941978,13.7389202003514
+11,Aeropuerto Internacional Gustavo Rojas Pinilla,ADZ,SKSP,Internacional,27,San Andrés y Providencia,912,San Andrés,-81.7508146050185,12.9863770653654
+17,Aeropuerto Yariguíes,EJA,SKEJ,Nacional,28,Santander,921,Barrancabermeja,-73.8081229637694,7.0263237634695
+18,Aeropuerto Las Brujas,CZU,SKGO,Nacional,29,Sucre,1025,Corozal,-75.283496709794,9.3330061196758
+42,Aeropuerto José Celestino Mútis,MQU,SKQU,Nacional,30,Tolima,1045,Mariquita,-77.3924431796939,6.2018542824888
+49,Base Aérea de Tolemaida,TOL,SKTI,Militar,30,Tolima,1046,Melgar,-74.69368966,4.26057385
+22,Aeropuerto Perales,IBE,SKIB,Nacional,30,Tolima,1069,Ibagué,-75.1362566704888,4.4836695781705
+40,Aeropuerto Santa Ana,CRC,SKGO,Nacional,31,Valle del Cauca,1079,Cartago,-75.9559332997874,4.7584693994114
+26,Aeropuerto Fabio Alberto León Bentley,MVP,SKMU,Nacional,32,Vaupés,1115,Mitú,-70.233836332802,1.253548741618
+48,Base Aérea de Marandúa,MQZ,SKUA,Militar,33,Vichada,1121,Puerto Carreño,-68.6871021,5.525512256
+32,Aeropuerto Germán Olano,PCR,SKPC,Nacional,33,Vichada,1121,Puerto Carreño,-67.5211059471026,6.4059295914722
+21,Aeropuerto Juan Casiano,GPI,SKGP,Nacional,11,Cauca,412,Guapí,-77.8946674725273,2.5752322179646
+25,Aeropuerto Enrique Olaya Herrera,EOH,SKMD,Nacional,2,Antioquia,12,Medellín,-75.5904472197126,6.2203583296561
+44,Aeropuerto Militar CATAM,BOG,N/A,Militar,5,Bogotá,167,Bogotá D.C.,-74.15303487,4.704754079
+19,Aeropuerto Flaminio Suarez Camacho,GYM,SKGY,Nacional,5,Bogotá,167,Bogotá D.C.,-74.0646302524275,4.8151436329454
+3,Aeropuerto Internacional El Dorado,BOG,SKBO,Internacional,5,Bogotá,167,Bogotá D.C.,-74.160003210556,4.6984024208816
+46,Base Aérea Larandia,N/A,SKLR,Militar,9,Caquetá,364,Florencia,-75.48650236,1.477556727
+20,Aeropuerto Gustavo Artunduaga,FLA,SKFL,Nacional,9,Caquetá,364,Florencia,-75.5605816669496,1.5895643180767
+39,Aeropuerto El Alcaraván,EYP,SKYP,Nacional,10,Casanare,380,Yopal,-72.3838098303997,5.3176422985893
+37,Aeropuerto Alfonso López Pumarejo,VUP,SKVP,Nacional,12,Cesar,441,Valledupar,-73.25228604372,10.4339994505108
+13,Aeropuerto Internacional Los Garzones,MTR,SKMR,Nacional,14,Córdoba,498,Montería,-75.8237825366854,8.8265059673346
+14,Aeropuerto Internacional Almirante Padilla,RCH,SKRH,Nacional,19,La Guajira,694,Riohacha,-72.9271388873727,11.5235555552725
+12,Aeropuerto Internacional Simón Bolívar,SMR,SKSM,Internacional,20,Magdalena,709,Santa Marta,-74.2307999996405,11.1197159993865
+38,Aeropuerto Vanguardia,VVC,SKVV,Nacional,21,Meta,740,Villavicencio,-73.6133272650964,4.1690640859515
+1,Aeropuerto Internacional El Edén,AXM,SKAR,Internacional,25,Quindío,885,Armenia,-75.7659806671205,4.4532428642135
+4,Aeropuerto Internacional Palonegro,BGA,SKBG,Internacional,28,Santander,915,Bucaramanga,-73.1813483828285,7.1283043916502
+52,Base Aérea Marco Fidel Suárez,N/A,SKGB,Militar,31,Valle del Cauca,1093,Cali,-76.49584195,3.459496509
+5,Aeropuerto Internacional Alfonso Bonilla Aragón,CLO,SKCL,Internacional,31,Valle del Cauca,1093,Cali,-76.3811042670173,3.5383995873473
